@@ -1,9 +1,14 @@
 body {
     background-color: cornflowerblue;
+    text-align: center;
+    color: whitesmoke;
 }
 #container {
     margin-top:3em;
     display: inline-block;
     align-content: center;
     justify-content: center;
+    border: 5px double white;
+    font-size: 2em;
+    padding:1em;
 }
